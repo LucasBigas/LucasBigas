@@ -2,7 +2,7 @@
 
 - 💻 Eu Atualmente estou progrmando em Java
 - 📚 Eu estou estudando Java,HTML,CSS,JavaScript
-- 💻 Eu estou atualmente estudando ENGENHARIA SOFTWARE
+- 📚 Eu estou atualmente estudando ENGENHARIA SOFTWARE
 
 <div align="center">
   <a href="https://github.com/LucasBigas">

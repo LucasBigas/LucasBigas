@@ -1,7 +1,6 @@
 ## Olá! Eu sou o Lucas Bigas
 
 - 💻 Eu Atualmente estou progrmando em Java
-- 📚 Eu estou estudando Java,HTML,CSS,JavaScript
 - 📚 Eu estou atualmente cursando ENGENHARIA SOFTWARE
 
 <div align="center">
